@@ -1,5 +1,5 @@
 # NetworkDataAnalysis Project
-##FAILURE DETECTION WITH DIFFERENT FAILURES LOCATION
+#FAILURE DETECTION WITH DIFFERENT FAILURES LOCATION
 In this repository is present a project related to the course Network and data analysis lab, Politecnico di Milano.
 The scope of the project is to understand wheater a failure in a scenario composed by three paths occurrs
 with the use of three different classifiers.
