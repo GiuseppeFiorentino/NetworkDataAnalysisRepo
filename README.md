@@ -8,7 +8,7 @@ a new dataset in which it was added the groundtruth information.
 The groundtruth is a binary variable (true/false). Thanks to it, it was possible to identify with an accuracy almost perfect the
 presence of a failure in the scenario considered.
 
-#TOPICS COVERED
+# TOPICS COVERED
 -Normalization of the dataset
 -Characterization of each classifier
 -Examine what is the impact of window duration and windows
